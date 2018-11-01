@@ -1,4 +1,4 @@
-//package hello;
+package launch;
 
 import org.junit.Test;
 
