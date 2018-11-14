@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello the Tomcat server is running!</h2>
-<h1>The curent server time is <%= new java.util.Date() %></h1>
+<h1>This is not the correct index file</h1>
 </body>
 </html>
